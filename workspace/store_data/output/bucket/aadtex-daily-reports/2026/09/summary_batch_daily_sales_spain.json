@@ -1,0 +1,8 @@
+{
+  "batchId": "daily_sales_spain",
+  "source": "daily_sales_spain.csv",
+  "date": "2026-09-13",
+  "salesCount": 3,
+  "totalAmount": 20100.80,
+  "stores": ["Zara Puerta del Sol Madrid", "Zara Gran Vía Madrid"]
+}

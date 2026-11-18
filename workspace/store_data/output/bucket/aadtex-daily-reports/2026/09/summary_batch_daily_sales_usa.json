@@ -1,0 +1,8 @@
+{
+  "batchId": "daily_sales_usa",
+  "source": "batch_usa.zip > batch_usa/daily_sales_usa.csv",
+  "date": "2026-09-13",
+  "salesCount": 3,
+  "totalAmount": 68450.75,
+  "stores": ["Zara Times Square New York", "Zara 5th Avenue New York"]
+}

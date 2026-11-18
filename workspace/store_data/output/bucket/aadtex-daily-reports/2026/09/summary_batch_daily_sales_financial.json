@@ -1,0 +1,8 @@
+{
+  "batchId": "daily_sales_financial",
+  "source": "daily_sales_financial.enc",
+  "date": "2026-09-13",
+  "salesCount": 1,
+  "totalAmount": 95000.00,
+  "stores": ["Central Financial Office"]
+}
