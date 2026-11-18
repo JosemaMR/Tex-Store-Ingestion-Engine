@@ -1,8 +1,4 @@
-# AadTex Store Ingestion Engine (App 1)
-
-Proyecto de **Acceso a Datos (AAD) – RA1: Manejo de ficheros** (`ra1_act1`).
-
-Repositorio en GitHub: https://github.com/JosemaMR/AadTex-Store-Ingestion-Engine
+# Tex Store Ingestion Engine
 
 ## Qué hace
 

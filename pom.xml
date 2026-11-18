@@ -12,7 +12,7 @@
 	<artifactId>AadTex-Store-Ingestion-Engine</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AadTex-Store-Ingestion-Engine</name>
-	<description>App 1: ingestión nocturna de ventas, firmas y balances de las tiendas AadTex (RA1)</description>
+	<description>Ingestión nocturna de ventas, firmas y balances de las tiendas</description>
 	<scm>
 		<connection/>
 		<developerConnection/>
